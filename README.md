@@ -23,7 +23,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 | Date | Keywords* |  Content | Reading  |  Problem Sets  |
 |---|:---|:---|:---|:---|
 | April 6 | EE | Introduction; Consistency  | Hayashi, 7.1-7.2  |   |
-| April 12 | EE | Asymptotic Normality & Hypothesis Testing | Hayashi, 7.3-7.4  | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb)  |
+| April 12 | EE | Asymptotic Normality & Hypothesis Testing | Hayashi, 7.3-7.4  | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb)[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.pdf)  |
 
 *Keywords: extremum estimators (EE), maximum likelihood estimator (MLE), generalized method of moments (GMM)
 
@@ -31,9 +31,9 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 **Problem Sets:**
 Problem sets are due to Jacek
 
-| Problem Set # | Assign Date |  Due Date |
-|:---:|:---|:---|
-| [1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb) | April 12 | April 26 |
+| Problem Set # | Link |Assign Date |  Due Date |
+|:---:|:---|:---|:---|
+| 1 | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb)[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.pdf) | April 12 | April 26 |
 
 ## Grading: 
 - 4 Problem sets (60%)
