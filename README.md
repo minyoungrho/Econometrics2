@@ -49,5 +49,5 @@ The references for the course materials will be updated throughout the course.
 - Davidson, R., MacKinnon, J. G. (2004). *Econometric theory and methods.*
 - Cameron, A.C. and Trivedi, P.K. (2005) *Microeconometrics: methods and applications.*
 
-- https://github.com/mcreel/Econometrics
+- Creel. https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf
 - https://quantecon.org/
