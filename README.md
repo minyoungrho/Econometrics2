@@ -21,7 +21,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 **Lectures:**
 
 | Date | Keywords* |  Content | Reading  |
-|---|:---|:---|:---|:---|
+|---|:---|:---|:---|
 | April 6 | EE | Introduction; Consistency  | Hayashi, 7.1-7.2  |   
 | April 12 | EE | Asymptotic Normality & Hypothesis Testing | Hayashi, 7.3-7.4  |
 | April 14 | MLE, Nerlove | Examples | Cameron and Trivedi, Ch. 5; [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.15  | 
