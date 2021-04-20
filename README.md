@@ -36,7 +36,9 @@ Problem sets are due to Jacek
 | Problem Set # | Link |Assign Date |  Due Date |
 |:---:|:---|:---|:---|
 | 1 | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.pdf) | April 12 | April 26 |
-| 1 | PS2 | April 21 | May 5 |
+| 2 | PS2 | April 26 | May 3 |
+| 3 | PS3 | May 3 | May 17 |
+| 4 | PS4 | May 17 | May 31 |
 
 ## Grading: 
 - 4 Problem sets (60%)
