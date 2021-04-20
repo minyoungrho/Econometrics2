@@ -25,9 +25,10 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 | April 6 | EE | Introduction; Consistency  | Hayashi, 7.1-7.2  |   |
 | April 12 | EE | Asymptotic Normality & Hypothesis Testing | Hayashi, 7.3-7.4  | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.pdf)  |
 | April 14 | MLE, Nerlove | Examples | Cameron and Trivedi, Ch. 5; [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.15  | |
-| April 14 | GMM | Examples | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.16  | |
+| April 19 | GMM | Examples | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.16  | |
+| April 21 | NumOp |  | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | |
 
-*Keywords (or Corresponding Lecture Slide Name): extremum estimators (EE), maximum likelihood estimator (MLE), generalized method of moments (GMM)
+*Keywords (or Corresponding Lecture Slide Name): extremum estimators (EE), maximum likelihood estimator (MLE), generalized method of moments (GMM), numerical optimization (NumOp)
 
 
 **Problem Sets:**
