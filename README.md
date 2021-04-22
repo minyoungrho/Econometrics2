@@ -31,8 +31,17 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 *Keywords (or Corresponding Lecture Slide Name): extremum estimators (EE), maximum likelihood estimator (MLE), generalized method of moments (GMM), numerical optimization (NumOp)
 
 
+
+**TA:**
+
+| Date | Content |
+|:---:|:---|
+| April 9 | Introduction to Julia | 
+| April 16 | Consistency of the LS; Asymptotic Normality of MLE | 
+| April 22 | PS2 | April 26 | May 3 |
+
+
 **Problem Sets:**
-Problem sets are due to Jacek
 
 | Problem Set # | Link |Assign Date |  Due Date |
 |:---:|:---|:---|:---|
