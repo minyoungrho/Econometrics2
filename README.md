@@ -38,7 +38,8 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 |:---:|:---|
 | April 9 | Introduction to Julia | 
 | April 16 | Consistency of the LS; Asymptotic Normality of MLE | 
-| April 22 | PS2 | April 26 | May 3 |
+| April 22 | Consistency and the Asymptotic Normality of IV |
+| April 30 | Solutions to Problem Set 1 |
 
 
 **Problem Sets:**
