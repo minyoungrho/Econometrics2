@@ -28,7 +28,11 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 | April 19 | GMM | Examples | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.16  | 
 | April 21 | NumOp | Search; Derivative Based Methods | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
 
-*Keywords (or Corresponding Lecture Slide Name): extremum estimators (EE), maximum likelihood estimator (MLE), generalized method of moments (GMM), numerical optimization (NumOp)
+*Keywords (or Corresponding Lecture Slide Name in lectures folder): 
+  - extremum estimators (EE)
+  - maximum likelihood estimator (MLE)
+  - generalized method of moments (GMM), 
+  - numerical optimization (NumOp)
 
 
 
