@@ -37,7 +37,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 
 
 **TA:**
-
+[Contents](https://drive.google.com/drive/folders/1fxlpdpmILn8Dj9zYJe7VzHwOdA4nUW6s?usp=sharing)
 | Date | Content |
 |:---:|:---|
 | April 9 | Introduction to Julia | 
@@ -47,7 +47,6 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 
 
 **Problem Sets:**
-
 | Problem Set # | Link |Assign Date |  Due Date |
 |:---:|:---|:---|:---|
 | 1 | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.pdf) | April 12 | April 26 |
