@@ -28,7 +28,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 | April 19 | [GMM](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/GMM.ipynb) | Examples | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.16  | 
 | April 21 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Search; Derivative Based Methods | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
 | April 26 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Nonlinear Optimization; Constrained Optimization; Overview of EE | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
-| April 28 | [Nerlove](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Nerlove.ipynb) | OLS, MLE, GMM, Constrained Optimization and Hypothesis Testing | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 6, 15.8, and 16.9   | 
+| April 28 | [Nerlove](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Nerlove.ipynb) | OLS, MLE, GMM, Constrained Optimization and Hypothesis Testing | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 6   | 
 
 *Keywords (or corresponding file name in [lectures folder](https://github.com/minyoungrho/Econometrics2/tree/main/lectures)): 
   - extremum estimators (EE)
