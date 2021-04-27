@@ -22,13 +22,13 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 
 | Date | Keywords* |  Content | Reading  |
 |---|:---|:---|:---|
-| April 6 | EE | Introduction; Consistency  | Hayashi, 7.1-7.2  |   
-| April 12 | EE | Asymptotic Normality & Hypothesis Testing | Hayashi, 7.3-7.4  |
-| April 14 | MLE | Examples | Cameron and Trivedi, Ch. 5; [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.15  | 
-| April 19 | GMM | Examples | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.16  | 
-| April 21 | NumOp | Search; Derivative Based Methods | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
-| April 26 | NumOp | Nonlinear Optimization; Constrained Optimization; Overview of EE | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
-| April 28 | Nerlove | OLS, MLE, GMM, Constrained Optimization and Hypothesis Testing | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 6, 15.8, and 16.9   | 
+| April 6 | [EE](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/EE.ipynb) | Introduction; Consistency  | Hayashi, 7.1-7.2  |   
+| April 12 | [EE](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/EE.ipynb) | Asymptotic Normality & Hypothesis Testing | Hayashi, 7.3-7.4  |
+| April 14 | [MLE](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/MLE.ipynb) | Examples | Cameron and Trivedi, Ch. 5; [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.15  | 
+| April 19 | [GMM](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/GMM.ipynb) | Examples | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.16  | 
+| April 21 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Search; Derivative Based Methods | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
+| April 26 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Nonlinear Optimization; Constrained Optimization; Overview of EE | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
+| April 28 | [Nerlove](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Nerlove.ipynb) | OLS, MLE, GMM, Constrained Optimization and Hypothesis Testing | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 6, 15.8, and 16.9   | 
 
 *Keywords (or corresponding file name in [lectures folder](https://github.com/minyoungrho/Econometrics2/tree/main/lectures)): 
   - extremum estimators (EE)
