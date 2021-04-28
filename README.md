@@ -27,7 +27,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 | April 14 | [MLE](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/MLE.ipynb) | Examples | Cameron and Trivedi, Ch. 5; [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.15  | 
 | April 19 | [GMM](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/GMM.ipynb) | Examples | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.16  | 
 | April 21 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Search; Derivative Based Methods | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
-| April 26 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Nonlinear Optimization; Constrained Optimization; Overview of EE | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
+| April 26 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Nonlinear Optimization; Constrained Optimization | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
 | April 28 | [Nerlove](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Nerlove.ipynb) | Restricted Optimization and Hypothesis Testing | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 6   | 
 
 *Keywords (or corresponding file name in [lectures folder](https://github.com/minyoungrho/Econometrics2/tree/main/lectures)): 
