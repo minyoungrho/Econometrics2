@@ -52,12 +52,11 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 | Problem Set # | Link |Assign Date |  Due Date |
 |:---:|:---|:---|:---|
 | 1 | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.pdf) | April 12 | April 26 |
-| 2 | [PS2](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps2.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps2.pdf) | April 26 | May 3 |
-| 3 | PS3 | May 3 | May 17 |
-| 4 | PS4 | May 17 | May 31 |
+| 2 | [PS2](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps2.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps2.pdf) | April 26 | May 10 |
+| 3 | PS3 | May 10 | May 24 |
 
 ## Grading: 
-- 4 Problem sets (60%)
+- 3 Problem sets (60%)
 - Final exam (40%)
 
 ## References
