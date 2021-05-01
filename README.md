@@ -29,6 +29,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 | April 21 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Search; Derivative Based Methods | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
 | April 26 | [NumOp](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/NumOp.ipynb) | Nonlinear Optimization; Constrained Optimization | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch.12  | 
 | April 28 | [Nerlove](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Nerlove.ipynb) | OLS, MLE, GMM, Restricted Optimization and Hypothesis Testing | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 6   | 
+| May 3 | [Bayesian](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Bayesian.ipynb) |  | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 18   | 
 
 *Keywords (or corresponding file name in [lectures folder](https://github.com/minyoungrho/Econometrics2/tree/main/lectures)): 
   - extremum estimators (EE)
@@ -61,6 +62,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 
 ## References
 The references for the course materials will be updated throughout the course.
+- Creel. https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf
 - Hayashi, F. (2000). *Econometrics.*
 - Amemiya, T. (1985). *Advanced Econometrics.*
 - Davidson, R., MacKinnon, J. G. (2004). *Econometric theory and methods.*
@@ -68,5 +70,4 @@ The references for the course materials will be updated throughout the course.
 - Victor Chernozhukov and Han Hong. An MCMC approach to classical estimation. Journal of
 Econometrics, 115(2):293–346, 2003. doi: 10.1016/s0304-4076(03)00100-3. URL: http://dx.doi.org/10.1016/s0304-4076(03)00100-3.
 
-- Creel. https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf
 - https://quantecon.org/
