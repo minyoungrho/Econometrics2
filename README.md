@@ -66,7 +66,7 @@ The references for the course materials will be updated throughout the course.
 - Davidson, R., MacKinnon, J. G. (2004). *Econometric theory and methods.*
 - Cameron, A.C. and Trivedi, P.K. (2005) *Microeconometrics: methods and applications.*
 - Victor Chernozhukov and Han Hong. An MCMC approach to classical estimation. Journal of
-Econometrics, 115(2):293–346, 2003. doi: 10.1016/s0304-4076(03)00100-3. URL http://dx.doi.org/10.1016/s0304-4076(03)00100-3.
+Econometrics, 115(2):293–346, 2003. doi: 10.1016/s0304-4076(03)00100-3. URL: http://dx.doi.org/10.1016/s0304-4076(03)00100-3.
 
 - Creel. https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf
 - https://quantecon.org/
