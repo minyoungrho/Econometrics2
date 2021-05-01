@@ -34,7 +34,7 @@ We also study other advancements in modern Econometrics such as  nonparmetric es
 *Keywords (or corresponding file name in [lectures folder](https://github.com/minyoungrho/Econometrics2/tree/main/lectures)): 
   - extremum estimators (EE)
   - maximum likelihood estimator (MLE)
-  - generalized method of moments (GMM), 
+  - generalized method of moments (GMM)
   - numerical optimization (NumOp)
 
 
