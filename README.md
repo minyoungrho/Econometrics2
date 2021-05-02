@@ -16,6 +16,9 @@ In this course, we study the estimation of structural economic models. Economic 
 
 We also study other advancements in modern Econometrics such as  nonparmetric estimation, which has no misspecification error but has a slower rate of convergence compared to parametric estimation, bayesian methods and quantile regressions.
 
+## Programming:
+In this course, we will use [the Julia Programming Language](https://julialang.org/) to study empirical counterparts to the theories introduced.
+
 ## Course Schedule
 
 **Lectures:**
