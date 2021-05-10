@@ -60,7 +60,7 @@ In this course, we will use [the Julia Programming Language](https://julialang.o
 |:---:|:---|:---|:---|
 | 1 | [PS1](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps1.pdf) | April 12 | April 26 |
 | 2 | [PS2](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps2.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps2.pdf) | April 26, last updated May 1 | May 10 |
-| 3 | PS3 | May 10 | May 24 |
+| 3 | [PS3](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps3.ipynb);[PDF](https://github.com/minyoungrho/Econometrics2/blob/main/ps/ps3.pdf) | May 10 | May 24 |
 
 ## Grading: 
 - 3 Problem sets (60%)
