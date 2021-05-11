@@ -35,7 +35,7 @@ In this course, we will use [the Julia Programming Language](https://julialang.o
 | May 3 | [Bayesian](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Bayesian.ipynb) | Prior, Posterior, Bayes Rules, and Markov chain Monte Carlo (MCMC) | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 18; [Mikusheva’s MIT OpenCourseWare notes](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/lecture-notes/) Lectures 23-25; Rossi et al. (2005) Chapters 2 & 3  | 
 | May 5 | [Bayesian](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Bayesian.ipynb) | Metropolis-Hastings algorithm and Gibbs Sampling | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 18; [Mikusheva’s MIT OpenCourseWare notes](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/lecture-notes/) Lectures 23-25; Rossi et al. (2005) Chapters 2 & 3  | 
 | May 10 | [TimeSeries](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/TimeSeries.ipynb) | AR, MA, ARCH, and GARCH | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 17 | 
-
+| May 12 | [TimeSeries](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/TimeSeries.ipynb) | Model Selection | Wasserman, 13.6 | 
 
 *Keywords (or corresponding file name in [lectures folder](https://github.com/minyoungrho/Econometrics2/tree/main/lectures)): 
   - extremum estimators (EE)
@@ -73,9 +73,10 @@ The references for the course materials will be updated throughout the course.
 - Amemiya, T. (1985). *Advanced Econometrics.*
 - Davidson, R., MacKinnon, J. G. (2004). *Econometric theory and methods.*
 - Cameron, A.C. and Trivedi, P.K. (2005). *Microeconometrics: methods and applications.*
-- Rossi, P. E., Allenby, G. M. and McCulloch, R. (2005). *Bayesian Statistics and Marketing*
+- Rossi, P. E., Allenby, G. M. and McCulloch, R. (2005). *Bayesian Statistics and Marketing.*
 - [Mikusheva’s MIT OpenCourseWare notes](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/lecture-notes/)
 - Victor Chernozhukov and Han Hong. An MCMC approach to classical estimation. Journal of
 Econometrics, 115(2):293–346, 2003. doi: 10.1016/s0304-4076(03)00100-3. URL: http://dx.doi.org/10.1016/s0304-4076(03)00100-3.
+- Wasserman, L. (2013). *All of Statistics.* URL: https://www.stat.cmu.edu/~larry/all-of-statistics/
 
 - https://quantecon.org/
