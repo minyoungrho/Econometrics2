@@ -47,12 +47,6 @@ In this course, we will use [the Julia Programming Language](https://julialang.o
 
 **TA:**
 [Contents](https://drive.google.com/drive/folders/1fxlpdpmILn8Dj9zYJe7VzHwOdA4nUW6s?usp=sharing)
-# | Date | Content |
-# |:---:|:---|
-# | April 9 | Introduction to Julia | 
-# | April 16 | Consistency of the LS; Asymptotic Normality of MLE | 
-# | April 22 | Consistency and the Asymptotic Normality of IV |
-# | April 30 | Solutions to Problem Set 1 |
 
 
 **Problem Sets:**
