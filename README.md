@@ -65,6 +65,7 @@ In this course, we will use [the Julia Programming Language](https://julialang.o
 
 ## References
 The references for the course materials will be updated throughout the course.
+- https://quantecon.org/
 - Creel. https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf
 - Hayashi, F. (2000). *Econometrics.*
 - Amemiya, T. (1985). *Advanced Econometrics.*
@@ -76,4 +77,4 @@ The references for the course materials will be updated throughout the course.
 Econometrics, 115(2):293–346, 2003. doi: 10.1016/s0304-4076(03)00100-3. URL: http://dx.doi.org/10.1016/s0304-4076(03)00100-3.
 - Wasserman, L. (2013). *All of Statistics.* URL: https://www.stat.cmu.edu/~larry/all-of-statistics/
 - Arellano's Notes: [Static](https://www.cemfi.es/~arellano/static-panels-class-note.pdf); [Dynamic I](https://www.cemfi.es/~arellano/time-series-panels-class-note.pdf); [Dynamic II](https://www.cemfi.es/~arellano/predetermined-variables-class-note.pdf)
-- https://quantecon.org/
+
