@@ -38,14 +38,14 @@ In this course, we will use [the Julia Programming Language](https://julialang.o
 | May 12 | [TimeSeries](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/TimeSeries.ipynb); [Panel](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Panel.ipynb) | Model Selection; Introduction to Panel Data | Wasserman, 13.6 | 
 | May 17 | [Panel](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Panel.ipynb) | Fixed-Effects, Random-Effects, and Hausman Test | [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 19; Arellano's Notes: [Static](https://www.cemfi.es/~arellano/static-panels-class-note.pdf); [Dynamic I](https://www.cemfi.es/~arellano/time-series-panels-class-note.pdf); [Dynamic II](https://www.cemfi.es/~arellano/predetermined-variables-class-note.pdf) | 
 | May 19 | [Nonparametric](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Nonparametric.ipynb) | Introduction, Nadaraya-Watson Kernel Estimator | Wasserman, Ch.20; [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 20 |
-
+| May 26 | [Quantile](https://github.com/minyoungrho/Econometrics2/blob/main/lectures/Quantile.ipynb) | Quantile Regression | Wasserman, Ch.21; [Creel](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf), Ch. 20 |
 
 *Keywords (or corresponding file name in [lectures folder](https://github.com/minyoungrho/Econometrics2/tree/main/lectures)): 
   - extremum estimators (EE)
   - maximum likelihood estimator (MLE)
   - generalized method of moments (GMM)
   - numerical optimization (NumOp)
-
+  - quantile regression (Quantile)
 
 
 **TA:**
